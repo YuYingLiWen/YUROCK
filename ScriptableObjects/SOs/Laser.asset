@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b7f535699f187b141a98c7997f958548, type: 3}
+  m_Name: Laser
+  m_EditorClassIdentifier: 
+  damage: 1
+  maxRaycastDistance: 500
+  moveTime: 7
+  purpleBatMat: {fileID: 2100000, guid: 7e0237de69fd6c94caa0ae4250d723ce, type: 2}
+  yellowBatMat: {fileID: 2100000, guid: 6eaee0cd3de60b947b8f81c88a2eb7e1, type: 2}
+  whiteBatMat: {fileID: 2100000, guid: 9dab8df0e4f38fb4f926bfeee66b017b, type: 2}
